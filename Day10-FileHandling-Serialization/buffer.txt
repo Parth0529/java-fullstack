@@ -1,0 +1,2 @@
+Buffered writing is faster!
+Used in real applications.
